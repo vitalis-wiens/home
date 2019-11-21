@@ -1,4 +1,4 @@
-[1](https://github.com/vitalis-wiens/home/blob/master/share/Avis-reservation.pdf)
+[1](https://vitalis-wiens.github.io/home/share/Avis-reservation.pdf)
 
 [2](https://github.com/vitalis-wiens/home/blob/master/share/Avis_AGBs.pdf)
 
